@@ -1,0 +1,46 @@
+{
+  "duration_seconds": 60.0,
+  "wpm": 180,
+  "ocr_interval": 0.5,
+  "mode": "Latest text",
+  "pages_reached": 6,
+  "correct_characters": 723,
+  "typed_characters": 723,
+  "mismatches": [],
+  "state_before_stop": "running",
+  "state_after_stop": "cancelled",
+  "actual": "The old oak tree stood at the edge of the meadow for longer than anyone could remember. Its massive branches sheltered wandering birds. A quiet stream wound through the village while people walked slowly beside the water and listened to stories about the The garden was a masterpiece of color and life an oasis hidden away from the noise of the outside world. The morning light reached every flower. Children followed narrow paths and found butterflies resting beside a wooden bench in the garden. Garden paths led toward a small pond where bright fish moved beneath the surface and reflected the clouds passing across the sky. Beyond the pond a painter worked quietly beneath an apple tree. She mixed warm colors and caref",
+  "expected_prefix": "The old oak tree stood at the edge of the meadow for longer than anyone could remember. Its massive branches sheltered wandering birds. A quiet stream wound through the village while people walked slowly beside the water and listened to stories about the The garden was a masterpiece of color and life an oasis hidden away from the noise of the outside world. The morning light reached every flower. Children followed narrow paths and found butterflies resting beside a wooden bench in the garden. Garden paths led toward a small pond where bright fish moved beneath the surface and reflected the clouds passing across the sky. Beyond the pond a painter worked quietly beneath an apple tree. She mixed warm colors and caref",
+  "readings": [
+    {
+      "seconds": 0.062,
+      "revision": 1,
+      "text": "The old oak tree stood at the edge of the meadow for\nlonger than anyone could remember. Its massive branches\nsheltered wandering birds."
+    },
+    {
+      "seconds": 11.687,
+      "revision": 2,
+      "text": "A quiet stream wound through the village while people\nwalked slowly beside the water and listened to stories\nabout the"
+    },
+    {
+      "seconds": 21.828,
+      "revision": 3,
+      "text": "The garden was a masterpiece of color and life an oasis\nhidden away from the noise of the outside world."
+    },
+    {
+      "seconds": 30.484,
+      "revision": 4,
+      "text": "The morning light reached every flower. Children followed\nnarrow paths and found butterflies resting beside a\nwooden bench in the garden."
+    },
+    {
+      "seconds": 42.14,
+      "revision": 5,
+      "text": "Garden paths led toward a small pond where bright fish\nmoved beneath the surface and reflected the clouds\npassing across the sky."
+    },
+    {
+      "seconds": 52.75,
+      "revision": 6,
+      "text": "Beyond the pond a painter worked quietly beneath an apple\ntree. She mixed warm colors and carefully painted the\ndistant rolling hills."
+    }
+  ]
+}
